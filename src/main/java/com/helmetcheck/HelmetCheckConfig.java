@@ -9,11 +9,11 @@ public interface HelmetCheckConfig extends Config
 {
 	@ConfigItem(
 		keyName = "greeting",
-		name = "Welcome Greeting",
+		name = "Helmet Check!!!",
 		description = "The message to show to the user when they login"
 	)
 	default String greeting()
 	{
-		return "Hello";
+		return "Helmet Check!!";
 	}
 }

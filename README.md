@@ -1,2 +1,2 @@
-# Example
-An example greeter plugin
+# Helmet Check
+My hovercraft is full of eels
